@@ -1,4 +1,5 @@
 # Underwater Glider
+![open-source-underwater-glider-image-01](https://user-images.githubusercontent.com/61480740/84228252-2b20a500-ab04-11ea-96e7-5fc6ee27ff46.jpg)
 
 ## **Motivation**
 
