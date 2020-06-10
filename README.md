@@ -1,6 +1,6 @@
 # Underwater Glider
 
-
+![open-source-underwater-glider-image-01](https://user-images.githubusercontent.com/61480740/84230149-ef3c0e80-ab08-11ea-8871-403ff1b93dec.jpg)
 
 ## **Motivation**
 
@@ -30,6 +30,7 @@ Alex Williams, a young innovator from the USA, has developed a low cost and vers
 ### Underwater Gliding
 Underwater gliders use a buoyancy engine to change the mass of the glider, allowing them to ascend and descend through the water. With power only being used to power the engine intermittently, gliders can typically run for weeks or months without recharge, making them ideal for environmental monitoring. As underwater gliders travel slowly through the water, they disturb the surrounding water very little, allowing for accurate and reliable data recording. [5]
 
+![underwater-glider-shanjeevan-dreamspace-7 (1)](https://user-images.githubusercontent.com/61480740/84233089-43e28800-ab0f-11ea-98d0-2bca9c2c9288.jpg)
 
 
 
