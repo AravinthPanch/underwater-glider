@@ -1,6 +1,7 @@
 # Underwater Glider
 
-![open-source-underwater-glider-image-01](https://user-images.githubusercontent.com/61480740/84230149-ef3c0e80-ab08-11ea-8871-403ff1b93dec.jpg)
+
+<img align="right"  src="https://user-images.githubusercontent.com/61480740/84230149-ef3c0e80-ab08-11ea-8871-403ff1b93dec.jpg">
 
 ## **Motivation**
 
